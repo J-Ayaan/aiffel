@@ -18,7 +18,7 @@
   - 입금 (`deposit`)
   - 출금 (`withdraw`)
   - 계좌 정보 출력 (`display_info`)
-  - 이자 지급 (`add_interest`)
+  - 이자 지급 (`interest`)
 - 여러 계좌 객체 생성 및 반복문 처리
 - 입출금 내역 관리
 
