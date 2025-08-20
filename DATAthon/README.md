@@ -1,7 +1,4 @@
 # DATA-thon - Mercari Price Suggestion Challenge
-
-# 🛒 Mercari Price Suggestion Challenge (Baseline)
-
 상품 텍스트 + 메타 데이터를 활용한 가격 예측 파이프라인.  
 LightGBM 기반 회귀 모델을 중심으로, 텍스트 임베딩(TF-IDF+SVD)과 범주형 신호(스무딩 타깃 인코딩, 등급화)를 결합합니다.
 
